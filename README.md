@@ -1,13 +1,34 @@
-- 👋 Hi, I’m @nipunadodan
-- 👀 I’m interested in PHP and front end technologies as well as UI/UX designing
-- 🌱 I’m currently learning React.js
-- 📫 Reach me at nipuna@nipunadodan.com
+👋 Hi, I'm @nipunadodan  
+🧑🏻 Human who cares  
+👀 Interested in Front-end and Back-end developing as well as UI/UX designing  
+🙈 Created a [PHP framework](https://github.com/nipunadodan/orange)  
+📫 Reach me at nipuna@nipunadodan.com
+
+```js
+import Person from 'nipunadodan';
+import SoftwareDeveloper from 'nipunadodan';
+
+class Character extends Person {
+  personality = 'Good with computers but not a robotic nerd';
+}
+
+class Bio extends SoftwareDeveloper {
+  name     = 'Nipuna Dodantenna';
+  title    = 'Software Engineer';
+  location = 'Colombo, LK';
+  contact  = 'nipuna@nipunadodan.com'
+}
+
+class Skills extends SoftwareDeveloper {
+  fields     = ['Front-end developing', 'UI/UX designing', 'Back-end developing']
+  languages  = ['JavaScript', 'PHP'];
+  frameworks = ['ReactJS', 'Tailwind', 'Bootstrap', 'jQuery', 'Laravel', 'Wordpress'];
+  databases  = ['MySQL'];
+  tools      = ['WebStorm', 'PHPStorm', 'Figma', 'Photoshop', 'Ubuntu'];
+}
+```
 
 <!---
 nipunadodan/nipunadodan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<!--
-## :chart_with_upwards_trend: Stats
-[![Nipuna's github stats](https://github-readme-stats.vercel.app/api?username=nipunadodan&show_icons=true&theme=nord&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nipunadodan&theme=nord&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
--->
