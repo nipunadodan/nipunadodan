@@ -22,7 +22,7 @@ class Bio extends SoftwareDeveloper {
 class Skills extends SoftwareDeveloper {
   fields     = ['Front-end developing', 'UI/UX designing', 'Back-end developing']
   languages  = ['JavaScript', 'PHP'];
-  frameworks = ['ReactJS', 'Tailwind', 'Bootstrap', 'jQuery', 'Laravel', 'Wordpress'];
+  libraries_frameworks = ['ReactJS', 'Tailwind', 'Bootstrap', 'jQuery', 'Laravel', 'Wordpress'];
   databases  = ['MySQL'];
   tools      = ['WebStorm', 'PHPStorm', 'Figma', 'Photoshop', 'Ubuntu'];
 }
