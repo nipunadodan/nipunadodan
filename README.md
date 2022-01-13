@@ -9,7 +9,7 @@ import Person from 'nipunadodan';
 import SoftwareDeveloper from 'nipunadodan';
 
 class Character extends Person {
-  personality = 'Good with computers but not a robotic nerd';
+  personality = 'Good with computers but not a robot';
 }
 
 class Bio extends SoftwareDeveloper {
