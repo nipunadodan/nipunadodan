@@ -1,7 +1,7 @@
 👋 Hi, I'm @nipunadodan  
 🧑🏻 Human who cares  
 👀 Interested in Front-end and Back-end developing as well as UI/UX designing  
-🙈 Created a [PHP framework](https://github.com/nipunadodan/orange)  
+🙈 Created a [PHP micro-framework](https://github.com/nipunadodan/orange)  
 📫 Reach me at nipuna@nipunadodan.com
 
 ```js
