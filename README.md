@@ -16,11 +16,11 @@ class Bio extends SoftwareDeveloper {
   name     = 'Nipuna Dodantenna';
   title    = 'Software Engineer';
   location = 'Colombo, LK';
-  contact  = 'nipuna@nipunadodan.com'
+  contact  = 'nipuna@nipunadodan.com';
 }
 
 class Skills extends SoftwareDeveloper {
-  fields     = ['Front-end developing', 'UI/UX designing', 'Back-end developing']
+  fields     = ['Front-end developing', 'UI/UX designing', 'Back-end developing'];
   languages  = ['JavaScript', 'PHP'];
   libraries_frameworks = ['ReactJS', 'Tailwind', 'Bootstrap', 'jQuery', 'Laravel', 'Wordpress'];
   databases  = ['MySQL'];
