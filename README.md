@@ -1,6 +1,6 @@
 👋 Hi, I'm @nipunadodan  
-🧑🏻 Human who cares  
-👀 Interested in web-based Front-end and Back-end developing as well as UI/UX designing  
+🧑🏻 A human who cares  
+👀 Interested mostly in Front-end development. But also in Back-end development as well as UI/UX designing  
 🙈 Created a [PHP micro-framework](https://github.com/nipunadodan/orange)  
 📫 Reach me at nipuna@nipunadodan.com
 
@@ -21,14 +21,9 @@ class Bio extends SoftwareDeveloper {
 
 class Skills extends SoftwareDeveloper {
   fields     = ['Front-end developing', 'UI/UX designing', 'Back-end developing'];
-  languages  = ['JavaScript', 'PHP'];
-  libraries_frameworks = ['ReactJS', 'Tailwind', 'Bootstrap', 'jQuery', 'Laravel', 'Wordpress'];
+  languages  = ['JavaScript', 'TypeScript', 'PHP'];
+  libraries_frameworks = ['ReactJS', 'React Native', 'Tailwind', 'Bootstrap', 'jQuery', 'Laravel', 'WordPress'];
   databases  = ['MySQL'];
-  tools      = ['WebStorm', 'PHPStorm', 'Figma', 'Photoshop', 'Ubuntu'];
+  tools      = ['GIT', 'WebStorm', 'PHPStorm', 'Figma', 'Photoshop', 'Ubuntu'];
 }
 ```
-
-<!---
-nipunadodan/nipunadodan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
