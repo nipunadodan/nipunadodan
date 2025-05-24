@@ -1,8 +1,10 @@
+# Nipuna Dodantenna
+
 👋 Hi, I'm @nipunadodan  
 🧑🏻 A human who cares  
 👀 Interested mostly in Front-end development. But also in Back-end development as well as UI/UX designing  
 🙈 Created a [PHP micro-framework](https://github.com/nipunadodan/orange)  
-📫 Reach me at nipuna@nipunadodan.com
+📫 Reach me at hello@nipunadodan.com
 
 ```js
 import Person from 'nipunadodan';
@@ -14,7 +16,7 @@ class Character extends Person {
 
 class Bio extends SoftwareDeveloper {
   name     = 'Nipuna Dodantenna';
-  title    = 'Software Engineer';
+  title    = 'Associate Technical Lead';
   location = 'Colombo, LK';
   contact  = 'nipuna@nipunadodan.com';
 }
