@@ -1,17 +1,20 @@
-# Nipuna Dodantenna
+# 👋 Hey there, I’m Nipuna (@nipunadodan)
 
-👋 Hi, I'm @nipunadodan  
-🧑🏻 A human who cares  
-👀 Interested mostly in Front-end development. But also in Back-end development as well as UI/UX designing  
-🙈 Created a [PHP micro-framework](https://github.com/nipunadodan/orange)  
-📫 Reach me at hello@nipunadodan.com
+👀 Into Front-end, dabbling in Back-end & UI/UX  
+
+✨ I do magic with **React** / **Next.js**  
+🧑🏻 Definitely human   
+🍊 Built an **[Orange](https://github.com/nipunadodan/orange)**, a PHP micro-framework  
+🎨 Currently learning **Blender**  
+
+📫 Reach me: **[hello@nipunadodan.com](hello@nipunadodan.com)** 
 
 ```js
 import Person from 'nipunadodan';
 import SoftwareDeveloper from 'nipunadodan';
 
 class Character extends Person {
-  personality = 'Good with computers but not a robot';
+  personality = 'Good with computers, but not a robot';
 }
 
 class Bio extends SoftwareDeveloper {
@@ -24,8 +27,13 @@ class Bio extends SoftwareDeveloper {
 class Skills extends SoftwareDeveloper {
   fields     = ['Front-end developing', 'UI/UX designing', 'Back-end developing'];
   languages  = ['JavaScript', 'TypeScript', 'PHP'];
-  libraries_frameworks = ['ReactJS', 'React Native', 'Tailwind', 'Bootstrap', 'jQuery', 'Laravel', 'WordPress'];
+  libraries_frameworks = ['Next.js', 'React.js', 'React Native', 'Tailwind', 'Bootstrap', 'jQuery', 'Laravel', 'WordPress'];
   databases  = ['MySQL'];
-  tools      = ['GIT', 'WebStorm', 'PHPStorm', 'Figma', 'Photoshop', 'Ubuntu'];
+  tools      = ['GIT', 'WebStorm', 'PHPStorm', 'Figma', 'Photoshop', 'Illustrator', 'Blender', 'Ubuntu'];
 }
 ```
+<p align="left">
+  <a href="https://nipunadodan.com">
+    <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,nodejs,grafana,tailwind,php,mysql,postgres,py,md,lua,jquery,git,figma,html,css" />
+  </a>
+</p>
